@@ -1,3 +1,33 @@
+# To Do List
+
+## Project Description
+This is a clear and convenient application that helps you organize your day. 
+
+In the application you can easily enter all your tasks and not forget anything.
+
+Easy to use at any device. Nice design :)
+
+## Built with
+- React 
+- HTML
+- CSS
+  
+## How to use
+Does not require additional settings. 
+
+Completely ready for use, just go to the website.
+
+Add your to-do list using the Add button or the Enter button.
+
+Cross off tasks as you complete them by simply clicking on them in the list.
+
+You can clear the entire list at once by clicking the Delete button.
+
+## License
+When using the code, you must indicate the author. Thank you!
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
